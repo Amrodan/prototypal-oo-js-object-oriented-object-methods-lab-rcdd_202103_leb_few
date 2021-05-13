@@ -17,6 +17,6 @@ return 'I like to help people.'
     return 'You will see great things from Scuber.'
   }
   sayHi () {
-    return 'Hi, my name is <name>. I am from <homestate>, and I was trained in <training>.'
+    return "Hi, my name is Mr. Polished. I am from New York, and I was trained in law."
   }
 }
