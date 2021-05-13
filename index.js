@@ -20,4 +20,3 @@ return 'I like to help people.'
     return  `Hi, my name is ${this.name}. I am from ${this.homestate}, and I was trained in ${this.training}.`
   }
 }
-
