@@ -20,3 +20,4 @@ return 'I like to help people.'
     return  `Hi, my name is ${name}. I am from ${homestate}, and I was trained in ${training}.`
   }
 }
+let board = new BoardMember('Mr. Polished','New York',"law")
